@@ -12,6 +12,9 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-kale-b23309217/)
 
 ### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devprnvk&theme=meta-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devprnvk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **devprnvk/devprnvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
