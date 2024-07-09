@@ -3,7 +3,7 @@
 ## Software Engineer | AI/Security | Entrepreneur | Business  
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="300"/>
 </div>
 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtxa3o1ODR0bzNxMG41YjA1NmkzcHF3ZHY4OTB6Y2ZzbGc1eG0xMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="500"/>
