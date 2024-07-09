@@ -20,9 +20,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devprnvk&theme=meta-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devprnvk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/devprnvk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devprnvk&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!--
 **devprnvk/devprnvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
