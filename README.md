@@ -3,8 +3,11 @@
 ## Software Engineer | AI/Security | Entrepreneur | Business  
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="100"/>
 </div>
+
+  <img src="https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6" width="100"/>
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-kale-b23309217/)
 
