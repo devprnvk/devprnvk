@@ -1,10 +1,13 @@
 # Hello! 👋 I'm Pranav Kale 
 
-## Software Engineer | Consulting | Computing | Business | 
+## Software Engineer | AI/Security | Entrepreneur | Business  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-kale-b23309217/)
+
 
 <!--
 **devprnvk/devprnvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
