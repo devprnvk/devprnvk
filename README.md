@@ -18,9 +18,10 @@
 
 <p align="left"> <a href="https://www.github.com/devprnvk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/prnvk.1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pranav-kale-b23309217/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-- 🔭 I’m currently working on AI prediction apps, software development, and building my e-commerce website
-- 🌱 I’m currently learning cybersecurity principles and data science tools useful for creating robust programs
-- 👯 I’m looking to collaborate on projects with big potential in cloud computing, consulting, and engineering space
+- 🔭 I’m currently working on AI prediction apps, software development, and building my e-commerce website.
+- 🌱 I’m currently learning cybersecurity principles and data science tools useful for creating robust programs.
+- 👯 I’m looking to collaborate on projects with big potential in cloud computing, consulting, and engineering space.
+- ⚡ Fun fact: I started coding at the age of 12 using Lua to develop high-quality video games on Roblox Studio.
   
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devprnvk&theme=meta-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
